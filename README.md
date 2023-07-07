@@ -1,6 +1,6 @@
 # Banco de Dados
 
-Este repositório contém um projeto de Banco de Dados desenvolvido por [seu nome ou nome da equipe]. O objetivo deste projeto é criar e gerenciar um banco de dados eficiente e confiável, oferecendo uma solução robusta para armazenamento e recuperação de informações.
+Este repositório contém um projeto de Banco de Dados desenvolvido por Théo Silva. O objetivo deste projeto é criar e gerenciar um banco de dados eficiente e confiável, oferecendo uma solução robusta para armazenamento e recuperação de informações.
 
 ## Funcionalidades
 
